@@ -24,7 +24,7 @@ The stems are automatically aligned with your original stereo mix, so you can dr
 ## Requirements
 
 ### Hardware
-- Elektron Octatrack (tested with MKII, should work with MKI)
+- Elektron Octatrack (tested with MKI, should work with MKII)
 - Audio interface with at least 2 inputs
 - MIDI interface (USB or DIN)
 
@@ -35,6 +35,8 @@ The stems are automatically aligned with your original stereo mix, so you can dr
 4. **Transport Send** - Enable in OT settings (PROJECT > MIDI > SYNC > TRANSPORT SEND)
    - This allows the app to detect when OT starts/stops for accurate alignment
 5. **Auto Channel** - Note which channel is set (default: 11) - used for transport control
+6. **Audio CC In + Out** - Enable both
+7. **Prog Ch** - Send and Receive on. Use same channel as for transport send.
 
 ## Installation
 
