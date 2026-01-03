@@ -42,7 +42,7 @@ The stems are automatically aligned with your original stereo mix, so you can dr
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ot-stem-capture.git
+git clone https://github.com/GGvst/ot-stem-capture.git
 cd ot-stem-capture
 
 # Create virtual environment
