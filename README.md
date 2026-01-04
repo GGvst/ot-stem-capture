@@ -58,7 +58,7 @@ pip install -r requirements.txt
 python run.py
 ```
 
-### macOS App (Coming Soon)
+### macOS App
 
 Download the latest `.app` from the Releases page.
 
